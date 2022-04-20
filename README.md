@@ -55,7 +55,7 @@ Below are the audio recording and transcription of the interview and participato
 
 * Transcription of the interview and participatory observation can be found [here] ( ...)
 
-* Observation notes [here] 
+ 
 
 ---------------------------------------
 Some interesting insights form the interview: 
