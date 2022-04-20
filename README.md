@@ -64,9 +64,10 @@ Some interesting insights form the interview:
   * "I wanted to use this site to understand music theory and how to play songs through sheet music."
 
 * User has family members that play in a raggae band in the Bay Area
-  * "I grew up around music and enjoys playing and listening to music in a group setting. My childhood consist of going to family functions and hearing my family perform."
+  * "I grew up around music and enjoys playing and listening to music in a group setting. My childhood consist of going to family functions and hearing my family perform raggae music."
 
-* 
+* User can also play the ukelele
+  * "I also play the ukelele. I honestly don't remember when I learned how to play. I also play the ukelele by ear."
 
 
 Step 6: Reflection
