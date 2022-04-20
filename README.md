@@ -63,11 +63,11 @@ Some interesting insights form the interview:
 * User knows how to play the piano, but doesn't know how to read sheet music.
   * "I wanted to use this site to understand music theory and how to play songs through sheet music."
 
-* User has family members that play in a raggae band in the Bay Area
-  * "I grew up around music and enjoys playing and listening to music in a group setting. My childhood consist of going to family functions and hearing my family perform raggae music."
+* User has family members that play in a reggae band in the Bay Area
+  * "I usually do music learning at home or at parties and family events. I grew up around music and enjoy playing and listening to music in a group setting. My childhood consist of going to family functions and hearing my family perform reggae music. I usually just watch my family play and I just copy what they do."
 
 * User can also play the ukelele
-  * "I also play the ukelele. I honestly don't remember when I learned how to play. I also play the ukelele by ear."
+  * "My first instrument I learned how to play is the ukelele. I honestly don't remember when I learned how to play, but I learned how to play it by ear because I saw my family play it.:"
 
 
 Step 6: Reflection
