@@ -30,7 +30,7 @@
 
 ## Step 4: Observation/Interview Guide
 
-* Please find the link to the interview script [here] (...)
+* Please find the link to the interview script [here](https://docs.google.com/document/d/1KryFL1uKlntlG_0kSIA2DTocJg2-fY_7B2TX4fwwDRI/edit?usp=sharing)
 
 ## Step 5: Conducting the Research
 
