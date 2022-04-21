@@ -70,7 +70,11 @@ Some interesting insights form the interview:
   * "My first instrument I learned how to play is the ukelele. I honestly don't remember when I learned how to play, but I learned how to play it by ear because I saw my family play it.:"
 
 
-Step 6: Reflection
+## Step 6: Reflection
+
+This project took a lot more time than expected. When I first started, I was 
+
+
 
 
 
