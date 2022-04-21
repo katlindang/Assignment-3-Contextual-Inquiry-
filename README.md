@@ -51,7 +51,7 @@
 
 Below are the audio recording and transcription of the interview and participatory observation.
 
-* Audio recording of the interview can be found here [here] (...)
+* Audio recording of the interview can be found here [here](https://drive.google.com/file/d/1ulTI7GTODcaVqnNMb4QSsTfRxlV4tZks/view?usp=sharing)
 
 * Transcription of the interview and participatory observation can be found [here](https://docs.google.com/document/d/1HdePrJ1FoAWy1qxfW1wxOI8nPL0Dvji0yx5SZzuTEDU/edit?usp=sharing)
 
