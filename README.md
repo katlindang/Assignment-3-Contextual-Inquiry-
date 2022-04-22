@@ -67,12 +67,13 @@ Some interesting insights form the interview:
   * "I usually do music learning at home or at parties and family events. I grew up around music and enjoy playing and listening to music in a group setting. My childhood consist of going to family functions and hearing my family perform reggae music. I usually just watch my family play and I just copy what they do."
 
 * User can also play the ukelele
-  * "My first instrument I learned how to play is the ukelele. I honestly don't remember when I learned how to play, but I learned how to play it by ear because I saw my family play it.:"
+  * "My first instrument I learned how to play is the ukelele. I honestly don't remember when I learned how to play, but I learned how to play it by ear because I saw my family play it."
 
 
 ## Step 6: Reflection
 
-This project took a lot more time than expected. When I first started, I was very confused on what to do. At first, I thought we were creating our own interview and activites for the activites, but I realized we were just observing the user conduct their own actvities. The interview was pretty fun and insightful. I haven't talked to my friend in awhile, but I knew him from my hometown. He was always good at playing music. 
+This project took a lot more time than expected. When I first started, I was very confused on what to do. At first, I thought we were creating our own interview and activites for the activites, but I realized we were just observing the user conduct their own actvities. The interview was pretty fun and insightful. I haven't talked to my friend in awhile, but I knew him from my hometown. He was always good at playing music. He currently lives in LA and makes music. The interview went well. I felt like Michael wasn't too talkative. He answered the questions very precisely without much questions. When he showed me the activities, it was very straight forward. It was all on the musictheory.net website. I did learn that the musictheory.net website is actually helpful to intermediate/advanced music artists. Although I knew Michael for a long time, I didn't know he didn't know how to read sheet music. I think it's so interesting that people are able to play intruments just by hearing a song. Next time, I think I could modify the questions and make it more personable. I would also try to ask the user to choose a different actvity that's on a different site.
+
 
 
 
