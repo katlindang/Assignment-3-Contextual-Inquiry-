@@ -72,7 +72,7 @@ Some interesting insights form the interview:
 
 ## Step 6: Reflection
 
-This project took a lot more time than expected. When I first started, I was very confused on what to do. At first, I thought we were creating our own interview and activites for
+This project took a lot more time than expected. When I first started, I was very confused on what to do. At first, I thought we were creating our own interview and activites for the activites, but I realized we were just observing the user conduct their own actvities. The interview was pretty fun and insightful. I haven't talked to my friend in awhile, but I knew him from my hometown. He was always good at playing music. 
 
 
 
