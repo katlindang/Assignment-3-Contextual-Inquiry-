@@ -72,7 +72,7 @@ Some interesting insights form the interview:
 
 ## Step 6: Reflection
 
-This project took a lot more time than expected. When I first started, I was 
+This project took a lot more time than expected. When I first started, I was very confused on what to do. At first, I thought we were creating our own interview and activites for
 
 
 
